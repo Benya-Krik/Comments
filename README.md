@@ -1,1 +1,1 @@
-# test-for-101
+# Frontend - test-for-101/resources/js/
